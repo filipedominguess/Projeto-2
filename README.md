@@ -1,4 +1,4 @@
-# Projeto de análise de inadimplência de empréstimos: impacto do estado civil e número de filhos
+# Projeto de Análise de Inadimplência de Empréstimos: Impacto do Estado Civil e Número de Filhos
 
 ## Descrição do projeto
 
